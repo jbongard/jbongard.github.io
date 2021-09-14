@@ -22,7 +22,7 @@
 
 1. [[PDF](https://meclab.w3.uvm.edu/papers/2019_Nature_Rahwan.pdf)] I Rahwan, M Cebrian, N Obradovich, J Bongard, J-F Bonnefon, C Breazeal, JW Crandall, NA Christakis, ID Couzin, MO Jackson, NR Jennings, E Kamar, IM Kloumann, H Larochelle, D Lazer, R McElreath, A Mislove, DC Parkes, A Pentland, ME Roberts, A Shariff, JB Tenenbaum & M Wellman (2019). Machine behaviour. *Nature*, 568: 477486
 
-1. Rounds, T., Bongard, J., Hines, P., & Harvey, J. (2019). A crowdsourcing approach to understand weight and weight loss in men. *Preventive Medicine Reports*, 13, 224.
+1. [[PDF](https://meclab.w3.uvm.edu/papers/2019_PMR_Rounds.pdf)] Rounds, T., Bongard, J., Hines, P., & Harvey, J. (2019). A crowdsourcing approach to understand weight and weight loss in men. *Preventive Medicine Reports*, 13, 224.
 
 1. [[PDF](https://meclab.w3.uvm.edu/papers/2018_NSR_Kriegman.pdf)] S Kriegman, N Cheney, J Bongard (2018). How morphological development can guide evolution. *Nature Scientific Reports*, 8(1): 13934.
 
