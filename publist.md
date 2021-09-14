@@ -226,31 +226,31 @@
 
 1. [[PDF](https://meclab.w3.uvm.edu/papers/2004_CEH_XXX.pdf)] Bongard, J. C. and H. Lipson (2004) Automated Robot Function Recovery after Unanticipated Failure or Environmental Change using a Minimum of Hardware Trials, in Proceedings of the NASA/DoD Conference on Evolvable Hardware, IEEE Computer Society, pp. 169-176.
 
-1. [[PDF](https://meclab.w3.uvm.edu/papers/2004_XXX_XXX.pdf)] Bongard, J. C. and H. Lipson (2004) Automating Genetic Network Inference with Minimal Physical Experimentation Using Coevolution, in Proceedings of the 2004 Genetic and Evolutionary Computation Conference (GECCO), Springer, pp. 333-345.
+1. [[PDF](https://meclab.w3.uvm.edu/papers/2004_GECCO_XXX.pdf)] Bongard, J. C. and H. Lipson (2004) Automating Genetic Network Inference with Minimal Physical Experimentation Using Coevolution, in Proceedings of the 2004 Genetic and Evolutionary Computation Conference (GECCO), Springer, pp. 333-345.
 
-1. [[PDF](https://meclab.w3.uvm.edu/papers/2004_XXX_XXX.pdf)] Bongard, J. C. and H. Lipson (2004) Automated Damage Diagnosis and Recovery for Remote Robotics, in Proceedings of the 2004 International Conference on Robotics and Automation (ICRA), Omnipress, pp. 3545-3550.
+1. [[PDF](https://meclab.w3.uvm.edu/papers/2004_ICRA_XXX.pdf)] Bongard, J. C. and H. Lipson (2004) Automated Damage Diagnosis and Recovery for Remote Robotics, in Proceedings of the 2004 International Conference on Robotics and Automation (ICRA), Omnipress, pp. 3545-3550.
 
-1. [[PDF](https://meclab.w3.uvm.edu/papers/2002_XXX_XXX.pdf)] Bongard, J. C. (2002) Evolved Sensor Fusion and Dissociation in an Embodied Agent, in Proceedings of the EPSRC/BBSRC International Workshop Biologically-Inspired Robotics: The Legacy of W. Grey Walter, pp. 102-109.
+1. [[PDF](https://meclab.w3.uvm.edu/papers/2002_IWBIR_XXX.pdf)] Bongard, J. C. (2002) Evolved Sensor Fusion and Dissociation in an Embodied Agent, in Proceedings of the EPSRC/BBSRC International Workshop Biologically-Inspired Robotics: The Legacy of W. Grey Walter, pp. 102-109.
 
-1. [[PDF](https://meclab.w3.uvm.edu/papers/2002_XXX_XXX.pdf)] Frutiger, D. R., J. C. Bongard and F. Iida (2002) Iterative Product Engineering: Evolutionary Robot Design, in Bidaud, P. and F. B. Amar (eds.), Proceedings of the Fifth International Conference on Climbing and Walking Robots, Professional Engineering Publishing, pp. 619-629.
+1. [[PDF](https://meclab.w3.uvm.edu/papers/2002_CLAWAR_XXX.pdf)] Frutiger, D. R., J. C. Bongard and F. Iida (2002) Iterative Product Engineering: Evolutionary Robot Design, in Bidaud, P. and F. B. Amar (eds.), Proceedings of the Fifth International Conference on Climbing and Walking Robots, Professional Engineering Publishing, pp. 619-629.
 
-1. [[PDF](https://meclab.w3.uvm.edu/papers/2002_XXX_XXX.pdf)] Bongard, J. C. and R. Pfeifer (2002) A Method for Isolating Morphological Effects on Evolved Behaviour, in Hallam, B., Floreano, D. et al (eds.), Proceedings of the Seventh International Conference on the Simulation of Adaptive Behaviour (SAB2002), MIT Press, pp. 305-311.
+1. [[PDF](https://meclab.w3.uvm.edu/papers/2002_SAB_XXX.pdf)] Bongard, J. C. and R. Pfeifer (2002) A Method for Isolating Morphological Effects on Evolved Behaviour, in Hallam, B., Floreano, D. et al (eds.), Proceedings of the Seventh International Conference on the Simulation of Adaptive Behaviour (SAB2002), MIT Press, pp. 305-311.
 
 1. Bongard, J. C. and R. Pfeifer (2002) Relating Neural Network Performance to Morphological Differences in Embodied Agents, inProceedings of the Sixth International Conference on Cognitive and Neural Systems, Boston, USA.
 
-1. [[PDF](https://meclab.w3.uvm.edu/papers/2002_XXX_XXX.pdf)] Bongard, J. C. (2002) Evolving Modular Genetic Regulatory Networks, in Proceedings of the IEEE 2002 Congress on Evolutionary Computation (CEC2002), IEEE Press, pp. 1872-1877.
+1. [[PDF](https://meclab.w3.uvm.edu/papers/2002_CEC_XXX.pdf)] Bongard, J. C. (2002) Evolving Modular Genetic Regulatory Networks, in Proceedings of the IEEE 2002 Congress on Evolutionary Computation (CEC2002), IEEE Press, pp. 1872-1877.
 
-1. [[PDF](https://meclab.w3.uvm.edu/papers/2001_XXX_XXX.pdf)] Paul, C. and J. C. Bongard (2001) The Road Less Travelled: Morphology in the Optimization of Biped Robot Locomotion, in Proceedings of The IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS2001), Hawaii, USA.
+1. [[PDF](https://meclab.w3.uvm.edu/papers/2001_IROS_XXX.pdf)] Paul, C. and J. C. Bongard (2001) The Road Less Travelled: Morphology in the Optimization of Biped Robot Locomotion, in Proceedings of The IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS2001), Hawaii, USA.
 
 1. Bongard, J. C. and C. Paul (2001) Making Evolution an Offer It Can't Refuse: Morphology and the Extradimensional Bypass, in J. Keleman and P. Sosik (eds.), Proceedings of the Sixth European Conference on Artificial Life, Prague, CZ, pp. 401-412.
 
-1. [[PDF](https://meclab.w3.uvm.edu/papers/2001_XXX_XXX.pdf)] Bongard, J. C. and R. Pfeifer (2001) Repeated Structure and Dissociation of Genotypic and Phenotypic Complexity in Artificial Ontogeny, in Spector, L. et al (eds.), Proceedings of The Genetic and Evolutionary Computation Conference, GECCO-2001. San Francisco, CA: Morgan Kaufmann publishers, pp. 829-836.
+1. [[PDF](https://meclab.w3.uvm.edu/papers/2001_GECCO_XXX.pdf)] Bongard, J. C. and R. Pfeifer (2001) Repeated Structure and Dissociation of Genotypic and Phenotypic Complexity in Artificial Ontogeny, in Spector, L. et al (eds.), Proceedings of The Genetic and Evolutionary Computation Conference, GECCO-2001. San Francisco, CA: Morgan Kaufmann publishers, pp. 829-836.
 
 1. Bongard, J. C. and C. Paul (2000) Investigating Morphological Symmetry and Locomotive Efficiency using Virtual Embodied Evolution, in J.-A. Meyer et al (eds.), From Animals to Animats: The Sixth International Conference on the Simulation of Adaptive Behaviour, pp. 420-429 
 
-1. [[PDF](https://meclab.w3.uvm.edu/papers/2000_XXX_XXX.pdf)] Bongard, J. C. (2000) Reducing Collective Behavioural Complexity through Heterogeneity, in M. Bedau et al (eds.), Artificial Life VII:Proceedings of the Seventh International Conference, (MIT Press) , pp. 327-336 [Presentation available in PDF]
+1. [[PDF](https://meclab.w3.uvm.edu/papers/2000_ALife_XXX.pdf)] Bongard, J. C. (2000) Reducing Collective Behavioural Complexity through Heterogeneity, in M. Bedau et al (eds.), Artificial Life VII:Proceedings of the Seventh International Conference, (MIT Press) , pp. 327-336.
 
-1. [[PDF](https://meclab.w3.uvm.edu/papers/2000_XXX_XXX.pdf)] Bongard, J. C. (2000) The Legion System: A Novel Approach to Evolving Heterogeneity for Collective Problem Solving, in R. Poli, W. Banzhaf et al (eds.), Genetic Programming: Third European Conference, pp. 25-37. (Springer-Verlag) [Presentation available in PDF]
+1. [[PDF](https://meclab.w3.uvm.edu/papers/2000_EuroGP_XXX.pdf)] Bongard, J. C. (2000) The Legion System: A Novel Approach to Evolving Heterogeneity for Collective Problem Solving, in R. Poli, W. Banzhaf et al (eds.), Genetic Programming: Third European Conference, pp. 25-37. (Springer-Verlag) [Presentation available in PDF]
 
 1. Bongard, J. C. (1999) Coevolutionary Dynamics of a Multi-Population Genetic Programming System, in Floreano, D., J.-D. Nicoud and F. Mondada (eds.), Proceedings of the Fifth European Conference on Artificial Life, pp. 316-321. (Springer-Verlag)
 
