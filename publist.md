@@ -152,105 +152,105 @@
 
 1. [[PDF](https://meclab.w3.uvm.edu/papers/2015_GECCO_Bongard.pdf)] JC Bongard, A Bernatskiy, K Livingston, N Livingston, J Long & M Smith (2015) Evolving robot morphology facilitates the evolution of neural modularity and evolvability. Genetic and Evolutionary Computation Conference (GECCO 2015), Madrid, Spain.
 
-1. [[PDF](https://meclab.w3.uvm.edu/papers/2014_ALife_XXX.pdf)] Wagy, M., Bongard, J. C. (2014) Collective Design of Robot Locomotion. ALIFE 14: Proceedings of the Fourteenth International Conference on the Synthesis and Simulation of Living Systems DOI: http://dx.doi.org/10.7551/987-0-262-32621-6-ch023.
+1. [[PDF](https://meclab.w3.uvm.edu/papers/2014_ALife_Wagy.pdf)] Wagy, M., Bongard, J. C. (2014) Collective Design of Robot Locomotion. ALIFE 14: Proceedings of the Fourteenth International Conference on the Synthesis and Simulation of Living Systems DOI: http://dx.doi.org/10.7551/987-0-262-32621-6-ch023.
 
-1. [[PDF](https://meclab.w3.uvm.edu/papers/2014_ALife_XXX.pdf)] Bernatskiy, A., Hornby, G. S., Bongard, J. C. (2014) Improving Robot Behavior Optimization by Combining User Preferences. ALIFE 14: Proceedings of the Fourteenth International Conference on the Synthesis and Simulation of Living Systems DOI: http://dx.doi.org/10.7551/987-0-262-32621-6-ch158.
+1. [[PDF](https://meclab.w3.uvm.edu/papers/2014_ALife_Bernatskiy.pdf)] Bernatskiy, A., Hornby, G. S., Bongard, J. C. (2014) Improving Robot Behavior Optimization by Combining User Preferences. ALIFE 14: Proceedings of the Fourteenth International Conference on the Synthesis and Simulation of Living Systems DOI: http://dx.doi.org/10.7551/987-0-262-32621-6-ch158.
 
-1. [[PDF](https://meclab.w3.uvm.edu/papers/2013_CEC_XXX.pdf)] Icke, I., Bongard, J. C. (2013) Improving Genetic Programming Based Symbolic Regression Using Deterministic Machine Learning. 2013 IEEE Congress on Evolutionary Computation, Cancun, MX.
+1. [[PDF](https://meclab.w3.uvm.edu/papers/2013_CEC_Icke.pdf)] Icke, I., Bongard, J. C. (2013) Improving Genetic Programming Based Symbolic Regression Using Deterministic Machine Learning. 2013 IEEE Congress on Evolutionary Computation, Cancun, MX.
 
-1. [[PDF](https://meclab.w3.uvm.edu/papers/2013_CEC_XXX.pdf)] Icke, I., Bongard, J. C. (2013) Modeling Hierarchy using Symbolic Regression. 2013 IEEE Congress on Evolutionary Computation,Cancun, MX.
+1. [[PDF](https://meclab.w3.uvm.edu/papers/2013_CEC_Icke_2.pdf)] Icke, I., Bongard, J. C. (2013) Modeling Hierarchy using Symbolic Regression. 2013 IEEE Congress on Evolutionary Computation,Cancun, MX.
 
-1. [[PDF](https://meclab.w3.uvm.edu/papers/2013_CEC_XXX.pdf)] Celis, S., Hornby, G. S., Bongard, J. C. (2013) Avoiding Local Optima with User Demonstrations and Low-level Control. 2013 IEEE Congress on Evolutionary Computation, Cancun, MX.
+1. [[PDF](https://meclab.w3.uvm.edu/papers/2013_CEC_Celis.pdf)] Celis, S., Hornby, G. S., Bongard, J. C. (2013) Avoiding Local Optima with User Demonstrations and Low-level Control. 2013 IEEE Congress on Evolutionary Computation, Cancun, MX.
 
-1. [[PDF](https://meclab.w3.uvm.edu/papers/2013_GECCO_XXX.pdf)] Bongard, J. C., Hornby, G. S. (2013) Combining Fitness-based Search and User Modeling in Evolutionary Robotics, 2013 Genetic and Evolutionary Computation Conference (GECCO 2013), pp. 159-166.
+1. [[PDF](https://meclab.w3.uvm.edu/papers/2013_GECCO_Bongard.pdf)] Bongard, J. C., Hornby, G. S. (2013) Combining Fitness-based Search and User Modeling in Evolutionary Robotics, 2013 Genetic and Evolutionary Computation Conference (GECCO 2013), pp. 159-166.
 
-1. [[PDF](https://meclab.w3.uvm.edu/papers/2012_GECCO_XXX.pdf)] Auerbach, J. E., Bongard, J. C. (2012) On the Relationship Between Environmental and Morphological Complexity in Evolved Robots,Proceedings of the 2012 Genetic and Evolutionary Computation Conference (GECCO 2012), pp. 521-528, DOI: 10.1145/2330163.2330238.
+1. [[PDF](https://meclab.w3.uvm.edu/papers/2012_GECCO_Auerbach.pdf)] Auerbach, J. E., Bongard, J. C. (2012) On the Relationship Between Environmental and Morphological Complexity in Evolved Robots,Proceedings of the 2012 Genetic and Evolutionary Computation Conference (GECCO 2012), pp. 521-528, DOI: 10.1145/2330163.2330238.
 
-1. [[PDF](https://meclab.w3.uvm.edu/papers/2012_ALife_XXX.pdf)] Auerbach, J. E., Bongard, J. C. (2012) On the Relationship Between Environmental and Mechanical Complexity in Evolved Robots.Proceedings of the 13th International Conference on the Synthesis and Simulation of Living Systems (ALife XIII), pp. 309-316, DOI: 10.7551/978-0-262-31050-5-ch041.
+1. [[PDF](https://meclab.w3.uvm.edu/papers/2012_ALife_Auerbach.pdf)] Auerbach, J. E., Bongard, J. C. (2012) On the Relationship Between Environmental and Mechanical Complexity in Evolved Robots.Proceedings of the 13th International Conference on the Synthesis and Simulation of Living Systems (ALife XIII), pp. 309-316, DOI: 10.7551/978-0-262-31050-5-ch041.
 
-1. [[PDF](https://meclab.w3.uvm.edu/papers/2012_GECCO_XXX.pdf)] Hornby, G. S., Bongard, J. C. (2012) Accelerating Interactive Evolutionary Algorithms through Comparative and Predictive User Models,2012 Genetic and Evolutionary Computation Conference (GECCO 2012), DOI: 10.1145/2330163.2330196.
+1. [[PDF](https://meclab.w3.uvm.edu/papers/2012_GECCO_Hornby.pdf)] Hornby, G. S., Bongard, J. C. (2012) Accelerating Interactive Evolutionary Algorithms through Comparative and Predictive User Models,2012 Genetic and Evolutionary Computation Conference (GECCO 2012), DOI: 10.1145/2330163.2330196.
 
-1. [[PDF](https://meclab.w3.uvm.edu/papers/2012_EvoStar_XXX.pdf)] Hornby, G. S., Bongard, J. C. (2012) Learning Comparative User Models for Accelerating Human-Computer Collaborative Search. Proceedings of the Evolutionary and Biologically Inspired Music, Sound, Art and Design, pp. 117-128, DOI: 10.1007/978-3-642-29142-5_11.
+1. [[PDF](https://meclab.w3.uvm.edu/papers/2012_EvoStar_Hornby.pdf)] Hornby, G. S., Bongard, J. C. (2012) Learning Comparative User Models for Accelerating Human-Computer Collaborative Search. Proceedings of the Evolutionary and Biologically Inspired Music, Sound, Art and Design, pp. 117-128, DOI: 10.1007/978-3-642-29142-5_11.
 
-1. [[PDF](https://meclab.w3.uvm.edu/papers/2011_GECCO_XXX.pdf)] Auerbach, J. E., Bongard, J. C. (2011) Evolving Complete Robots with CPPN-NEAT: The Utility of Recurrent Connections, 2011 Genetic and Evolutionary Computation Conference (GECCO 2011), Dublin, IR.
+1. [[PDF](https://meclab.w3.uvm.edu/papers/2011_GECCO_Auerbach.pdf)] Auerbach, J. E., Bongard, J. C. (2011) Evolving Complete Robots with CPPN-NEAT: The Utility of Recurrent Connections, 2011 Genetic and Evolutionary Computation Conference (GECCO 2011), Dublin, IR.
 
-1. [[PDF](https://meclab.w3.uvm.edu/papers/2011_GECCO_XXX.pdf)] Bongard, J. C. (2011) Spontaneous Evolution of Structural Modularity in Robot Neural Network Controllers. 2011 Genetic and Evolutionary Computation Conference (GECCO 2011), Dublin, IR.
+1. [[PDF](https://meclab.w3.uvm.edu/papers/2011_GECCO_Bongard.pdf)] Bongard, J. C. (2011) Spontaneous Evolution of Structural Modularity in Robot Neural Network Controllers. 2011 Genetic and Evolutionary Computation Conference (GECCO 2011), Dublin, IR.
 
-1. [[PDF](https://meclab.w3.uvm.edu/papers/2011_GECCO_XXX.pdf)] Bongard, J. C. (2011) Morphological and Environmental Scaffolding Synergize when Evolving Robot Controllers, 2011 Genetic and Evolutionary Computation Conference (GECCO 2011), Dublin, IR.
+1. [[PDF](https://meclab.w3.uvm.edu/papers/2011_GECCO_Bongard_2.pdf)] Bongard, J. C. (2011) Morphological and Environmental Scaffolding Synergize when Evolving Robot Controllers, 2011 Genetic and Evolutionary Computation Conference (GECCO 2011), Dublin, IR.
 
-1. [[PDF](https://meclab.w3.uvm.edu/papers/2010_ALife_XXX.pdf)] Auerbach, J. E., Bongard, J. C. (2010) Dynamic Resolution in the Co-Evolution of Morphology and Control. 12th International Conference on the Synthesis and Simulation of Living Systems (ALife XII), Portland, OR.
+1. [[PDF](https://meclab.w3.uvm.edu/papers/2010_ALife_Auerbach.pdf)] Auerbach, J. E., Bongard, J. C. (2010) Dynamic Resolution in the Co-Evolution of Morphology and Control. 12th International Conference on the Synthesis and Simulation of Living Systems (ALife XII), Portland, OR.
 
-1. [[PDF](https://meclab.w3.uvm.edu/papers/2010_KDD_XXX.pdf)] Lu, Z., Wu, X., Zhu, X., Bongard, J. (2010) Ensemble Pruning via Individual Contribution Ordering, The 16th ACM SIGKDD Conference on Knowledge Discovery and Data Mining Washington DC, 2010
+1. [[PDF](https://meclab.w3.uvm.edu/papers/2010_KDD_Lu.pdf)] Lu, Z., Wu, X., Zhu, X., Bongard, J. (2010) Ensemble Pruning via Individual Contribution Ordering, The 16th ACM SIGKDD Conference on Knowledge Discovery and Data Mining Washington DC, 2010
 
-1. [[PDF](https://meclab.w3.uvm.edu/papers/2010_GECCO_XXX.pdf)] Auerbach, J. E., Bongard, J. C. (2010) Evolving CPPNs to Grow Three Dimensional Structures. 2010 Genetic and Evolutionary Computation Conference (GECCO 2010), Portland, OR.
+1. [[PDF](https://meclab.w3.uvm.edu/papers/2010_GECCO_Auerbach.pdf)] Auerbach, J. E., Bongard, J. C. (2010) Evolving CPPNs to Grow Three Dimensional Structures. 2010 Genetic and Evolutionary Computation Conference (GECCO 2010), Portland, OR.
 
-1. [[PDF](https://meclab.w3.uvm.edu/papers/2010_GECCO_XXX.pdf)] Bongard, J. C. (2010) A Probabilistic Functional Crossover Operator for Genetic Programming. 2010 Genetic and Evolutionary Computation Conference (GECCO 2010), Portland, OR.
+1. [[PDF](https://meclab.w3.uvm.edu/papers/2010_GECCO_Bongard.pdf)] Bongard, J. C. (2010) A Probabilistic Functional Crossover Operator for Genetic Programming. 2010 Genetic and Evolutionary Computation Conference (GECCO 2010), Portland, OR.
 
-1. [[PDF](https://meclab.w3.uvm.edu/papers/2010_GECCO_XXX.pdf)] Bongard, J. C., Hornby, G. S. (2010) Guarding Against Premature Convergence while Accelerating Evolutionary Search. 2010 Genetic and Evolutionary Computation Conference (GECCO 2010).
+1. [[PDF](https://meclab.w3.uvm.edu/papers/2010_GECCO_Bongard_2.pdf)] Bongard, J. C., Hornby, G. S. (2010) Guarding Against Premature Convergence while Accelerating Evolutionary Search. 2010 Genetic and Evolutionary Computation Conference (GECCO 2010).
 
-1. [[PDF](https://meclab.w3.uvm.edu/papers/2010_SDM_XXX.pdf)] Lu, Z., Wu, X., Bongard, J. (2010) Adaptive Informative Sampling for Active Learning, The 2010 SIAM Conference on Data Mining (SDM 2010), Columbus, Ohio, USA, 2010
+1. [[PDF](https://meclab.w3.uvm.edu/papers/2010_SDM_Lu.pdf)] Lu, Z., Wu, X., Bongard, J. (2010) Adaptive Informative Sampling for Active Learning, The 2010 SIAM Conference on Data Mining (SDM 2010), Columbus, Ohio, USA, 2010
 
-1. [[PDF](https://meclab.w3.uvm.edu/papers/2009_ICDM_XXX.pdf)] Lu, Z., Wu, X., Bongard, J. (2009) Active Learning with Adaptive Heterogeneous Ensembles The 2009 IEEE International Conference on Data Mining (ICDM 2009) pages 327-336, Miami, FL.
+1. [[PDF](https://meclab.w3.uvm.edu/papers/2009_ICDM_Lu.pdf)] Lu, Z., Wu, X., Bongard, J. (2009) Active Learning with Adaptive Heterogeneous Ensembles The 2009 IEEE International Conference on Data Mining (ICDM 2009) pages 327-336, Miami, FL.
 
-1. [[PDF](https://meclab.w3.uvm.edu/papers/2009_GECCO_XXX.pdf)] Kaipa, K., Bongard, J. C., Meltzoff A. N. (2009) Combined Structure and Motion Extraction from Visual Data Using Evolutionary Active Learning 2009 Genetic and Evolutionary Computation Conference (GECCO 2009), Montreal Canada.
+1. [[PDF](https://meclab.w3.uvm.edu/papers/2009_GECCO_Kaipa.pdf)] Kaipa, K., Bongard, J. C., Meltzoff A. N. (2009) Combined Structure and Motion Extraction from Visual Data Using Evolutionary Active Learning 2009 Genetic and Evolutionary Computation Conference (GECCO 2009), Montreal Canada.
 
-1. [[PDF](https://meclab.w3.uvm.edu/papers/2009_GECCO_XXX.pdf)] Auerbach, J., Bongard, J. C. (2009) Evolution of Functional Specialization in a Morphologically Homogeneous Robot. 2009 Genetic and Evolutionary Computation Conference (GECCO 2009), Montreal Canada.
+1. [[PDF](https://meclab.w3.uvm.edu/papers/2009_GECCO_Auerbach.pdf)] Auerbach, J., Bongard, J. C. (2009) Evolution of Functional Specialization in a Morphologically Homogeneous Robot. 2009 Genetic and Evolutionary Computation Conference (GECCO 2009), Montreal Canada.
 
-1. [[PDF](https://meclab.w3.uvm.edu/papers/2009_CEC_XXX.pdf)] Auerbach, J., Bongard, J. C. (2009) How Robot Morphology and Training Order Affect the Learning of Multiple Behaviors. 2009 IEEE Congress on Evolutionary Computation (IEEE CEC 2009), Trondeim, Norway.
+1. [[PDF](https://meclab.w3.uvm.edu/papers/2009_CEC_Auerbach.pdf)] Auerbach, J., Bongard, J. C. (2009) How Robot Morphology and Training Order Affect the Learning of Multiple Behaviors. 2009 IEEE Congress on Evolutionary Computation (IEEE CEC 2009), Trondeim, Norway.
 
-1. [[PDF](https://meclab.w3.uvm.edu/papers/2008_ALife_XXX.pdf)] Bongard, J. (2008) Behavior Chaining: Incremental Behavior Integration for Evolutionary Robotics, Artificial Life XI, MIT Press, Cambridge, MA.
+1. [[PDF](https://meclab.w3.uvm.edu/papers/2008_ALife_Bongard.pdf)] Bongard, J. (2008) Behavior Chaining: Incremental Behavior Integration for Evolutionary Robotics, Artificial Life XI, MIT Press, Cambridge, MA.
 
-1. [[PDF](https://meclab.w3.uvm.edu/papers/2007_ECAL_XXX.pdf)] Bongard, J. (2007) Synthesizing Physically-Realistic Environmental Models from Robot Exploration, Advances in Artificial Life: 9th European Conference, Springer-Verlag, Berlin, pp. 806-815.
+1. [[PDF](https://meclab.w3.uvm.edu/papers/2007_ECAL_Bongard.pdf)] Bongard, J. (2007) Synthesizing Physically-Realistic Environmental Models from Robot Exploration, Advances in Artificial Life: 9th European Conference, Springer-Verlag, Berlin, pp. 806-815.
 
-1. [[PDF](https://meclab.w3.uvm.edu/papers/2007_GECCO_XXX.pdf)] Bongard, J. (2007) Action-Selection and Crossover Strategies for Self-Modeling Machines, Proceedings of the 9th Annual Conference on Genetic and Evolutionary Computation, ACM Press, New York, NY, pp. 198-205.
+1. [[PDF](https://meclab.w3.uvm.edu/papers/2007_GECCO_Bongard.pdf)] Bongard, J. (2007) Action-Selection and Crossover Strategies for Self-Modeling Machines, Proceedings of the 9th Annual Conference on Genetic and Evolutionary Computation, ACM Press, New York, NY, pp. 198-205.
 
-1. [[PDF](https://meclab.w3.uvm.edu/papers/2007_GECCO_XXX.pdf)] Bongard, J. (2007) Exploiting Multiple Robots to Accelerate Self-Modeling, Proceedings of the 9th Annual Conference on Genetic and Evolutionary Computation, ACM Press, New York, NY, pp. 214-221.
+1. [[PDF](https://meclab.w3.uvm.edu/papers/2007_GECCO_Bongard.pdf)] Bongard, J. (2007) Exploiting Multiple Robots to Accelerate Self-Modeling, Proceedings of the 9th Annual Conference on Genetic and Evolutionary Computation, ACM Press, New York, NY, pp. 214-221.
 
-1. [[PDF](https://meclab.w3.uvm.edu/papers/2006_IAS_XXX.pdf)] Lipson, H., Bongard, J., Zykov, V., Malone, E. (2006) Evolutionary Robotics for Legged Machines: From Simulation to Physical Reality,Proceedings of the 9th Intl. Conference on Intelligent Autonomous Systems, University of Tokyo, Japan, 11-18.
+1. [[PDF](https://meclab.w3.uvm.edu/papers/2006_IAS_Lipson.pdf)] Lipson, H., Bongard, J., Zykov, V., Malone, E. (2006) Evolutionary Robotics for Legged Machines: From Simulation to Physical Reality,Proceedings of the 9th Intl. Conference on Intelligent Autonomous Systems, University of Tokyo, Japan, 11-18.
 
-1. [[PDF](https://meclab.w3.uvm.edu/papers/2006_ALife_XXX.pdf)] Bongard, J. C., Zykov, V. and H. Lipson (2006) Automated Synthesis of Body Schema using Multiple Sensor Modalities, in Proceedings of the Tenth International Conference on the Simulation and Synthesis of Living Systems (ALIFEX), pp. 220-226.
+1. [[PDF](https://meclab.w3.uvm.edu/papers/2006_ALife_Bongard.pdf)] Bongard, J. C., Zykov, V. and H. Lipson (2006) Automated Synthesis of Body Schema using Multiple Sensor Modalities, in Proceedings of the Tenth International Conference on the Simulation and Synthesis of Living Systems (ALIFEX), pp. 220-226.
 
-1. [[PDF](https://meclab.w3.uvm.edu/papers/2005_GECCO_XXX.pdf)] Bongard J. and Lipson H. (2005) Reinventing the Wheel: Experiments in Evolutionary Geometry, Late Breaking Papers of the 2005 Genetic and Evolutionary Computation Conference, June 2005, Washington DC.
+1. [[PDF](https://meclab.w3.uvm.edu/papers/2005_GECCO_Bongard.pdf)] Bongard J. and Lipson H. (2005) Reinventing the Wheel: Experiments in Evolutionary Geometry, Late Breaking Papers of the 2005 Genetic and Evolutionary Computation Conference, June 2005, Washington DC.
 
-1. [[PDF](https://meclab.w3.uvm.edu/papers/2005_GECCO_XXX.pdf)] Bongard J. and Lipson H. (2005) `Managed Challenge' Alleviates Disengagement in Co-evolutionary System Identification, Proceedings of the 2005 Genetic and Evolutionary Computation Conference, June 2005, Washington DC, pp. 531-538.
+1. [[PDF](https://meclab.w3.uvm.edu/papers/2005_GECCO_Bongard.pdf)] Bongard J. and Lipson H. (2005) `Managed Challenge' Alleviates Disengagement in Co-evolutionary System Identification, Proceedings of the 2005 Genetic and Evolutionary Computation Conference, June 2005, Washington DC, pp. 531-538.
 
-1. [[PDF](https://meclab.w3.uvm.edu/papers/2005_RSS_XXX.pdf)] White P., Zykov V., Bongard J., and Lipson H. (2005) Three Dimensional Stochastic Reconfiguration of Modular Robots, Proceedings of Robotics: Science and Systems, MIT Press, Cambridge, MA, pp. 161-168.
+1. [[PDF](https://meclab.w3.uvm.edu/papers/2005_RSS_White.pdf)] White P., Zykov V., Bongard J., and Lipson H. (2005) Three Dimensional Stochastic Reconfiguration of Modular Robots, Proceedings of Robotics: Science and Systems, MIT Press, Cambridge, MA, pp. 161-168.
 
-1. [[PDF](https://meclab.w3.uvm.edu/papers/2005_CEH_XXX.pdf)] Zykov, V., J. Bongard and H. Lipson (2005) Co-evolutionary Variance Can Guide Physical Testing in Evolutionary System Identification,The 2005 NASA/DoD Conference on Evolvable Hardware, June 2005, Washington D.C., USA, pp. 213-220.
+1. [[PDF](https://meclab.w3.uvm.edu/papers/2005_CEH_Zykov.pdf)] Zykov, V., J. Bongard and H. Lipson (2005) Co-evolutionary Variance Can Guide Physical Testing in Evolutionary System Identification,The 2005 NASA/DoD Conference on Evolvable Hardware, June 2005, Washington D.C., USA, pp. 213-220.
 
-1. [[PDF](https://meclab.w3.uvm.edu/papers/2004_ASME_XXX.pdf)] Lipson, H. and J. Bongard (2004) An Exploration-Estimation Algorithm for Synthesis and Analysis of Engineering Systems Using Minimal Physical Testing, in Proceedings of the 2004 ASME Design Engineering Technical Conferences and Computer and Information in Engineering Conference, Salt Lake City, UT.
+1. [[PDF](https://meclab.w3.uvm.edu/papers/2004_ASME_Lipson.pdf)] Lipson, H. and J. Bongard (2004) An Exploration-Estimation Algorithm for Synthesis and Analysis of Engineering Systems Using Minimal Physical Testing, in Proceedings of the 2004 ASME Design Engineering Technical Conferences and Computer and Information in Engineering Conference, Salt Lake City, UT.
 
-1. [[PDF](https://meclab.w3.uvm.edu/papers/2004_GECCO_XXX.pdf)] Zykov, V., Bongard, J. C. and H. Lipson (2004) Evolving Dynamics Gaits on a Physical Robot, in Late Breaking Papers for the 2004 Genetic and Evolutionary Computation Conference (GECCO), Seattle, WA.
+1. [[PDF](https://meclab.w3.uvm.edu/papers/2004_GECCO_Zykov.pdf)] Zykov, V., Bongard, J. C. and H. Lipson (2004) Evolving Dynamics Gaits on a Physical Robot, in Late Breaking Papers for the 2004 Genetic and Evolutionary Computation Conference (GECCO), Seattle, WA.
 
-1. [[PDF](https://meclab.w3.uvm.edu/papers/2004_ALife_XXX.pdf)] Bongard, J. C. and H. Lipson (2004) Once More Unto the Breach: Co-evolving a Robot and its Simulator, in Proceedings of the Ninth International Conference on the Simulation and Synthesis of Living Systems (ALIFE9), pp. 57-62.
+1. [[PDF](https://meclab.w3.uvm.edu/papers/2004_ALife_Bongard.pdf)] Bongard, J. C. and H. Lipson (2004) Once More Unto the Breach: Co-evolving a Robot and its Simulator, in Proceedings of the Ninth International Conference on the Simulation and Synthesis of Living Systems (ALIFE9), pp. 57-62.
 
-1. [[PDF](https://meclab.w3.uvm.edu/papers/2004_CEH_XXX.pdf)] Bongard, J. C. and H. Lipson (2004) Automated Robot Function Recovery after Unanticipated Failure or Environmental Change using a Minimum of Hardware Trials, in Proceedings of the NASA/DoD Conference on Evolvable Hardware, IEEE Computer Society, pp. 169-176.
+1. [[PDF](https://meclab.w3.uvm.edu/papers/2004_CEH_Bongard.pdf)] Bongard, J. C. and H. Lipson (2004) Automated Robot Function Recovery after Unanticipated Failure or Environmental Change using a Minimum of Hardware Trials, in Proceedings of the NASA/DoD Conference on Evolvable Hardware, IEEE Computer Society, pp. 169-176.
 
-1. [[PDF](https://meclab.w3.uvm.edu/papers/2004_GECCO_XXX.pdf)] Bongard, J. C. and H. Lipson (2004) Automating Genetic Network Inference with Minimal Physical Experimentation Using Coevolution, in Proceedings of the 2004 Genetic and Evolutionary Computation Conference (GECCO), Springer, pp. 333-345.
+1. [[PDF](https://meclab.w3.uvm.edu/papers/2004_GECCO_Bongard.pdf)] Bongard, J. C. and H. Lipson (2004) Automating Genetic Network Inference with Minimal Physical Experimentation Using Coevolution, in Proceedings of the 2004 Genetic and Evolutionary Computation Conference (GECCO), Springer, pp. 333-345.
 
-1. [[PDF](https://meclab.w3.uvm.edu/papers/2004_ICRA_XXX.pdf)] Bongard, J. C. and H. Lipson (2004) Automated Damage Diagnosis and Recovery for Remote Robotics, in Proceedings of the 2004 International Conference on Robotics and Automation (ICRA), Omnipress, pp. 3545-3550.
+1. [[PDF](https://meclab.w3.uvm.edu/papers/2004_ICRA_Bongard.pdf)] Bongard, J. C. and H. Lipson (2004) Automated Damage Diagnosis and Recovery for Remote Robotics, in Proceedings of the 2004 International Conference on Robotics and Automation (ICRA), Omnipress, pp. 3545-3550.
 
-1. [[PDF](https://meclab.w3.uvm.edu/papers/2002_IWBIR_XXX.pdf)] Bongard, J. C. (2002) Evolved Sensor Fusion and Dissociation in an Embodied Agent, in Proceedings of the EPSRC/BBSRC International Workshop Biologically-Inspired Robotics: The Legacy of W. Grey Walter, pp. 102-109.
+1. [[PDF](https://meclab.w3.uvm.edu/papers/2002_IWBIR_Bongard.pdf)] Bongard, J. C. (2002) Evolved Sensor Fusion and Dissociation in an Embodied Agent, in Proceedings of the EPSRC/BBSRC International Workshop Biologically-Inspired Robotics: The Legacy of W. Grey Walter, pp. 102-109.
 
-1. [[PDF](https://meclab.w3.uvm.edu/papers/2002_CLAWAR_XXX.pdf)] Frutiger, D. R., J. C. Bongard and F. Iida (2002) Iterative Product Engineering: Evolutionary Robot Design, in Bidaud, P. and F. B. Amar (eds.), Proceedings of the Fifth International Conference on Climbing and Walking Robots, Professional Engineering Publishing, pp. 619-629.
+1. [[PDF](https://meclab.w3.uvm.edu/papers/2002_CLAWAR_Frutiger.pdf)] Frutiger, D. R., J. C. Bongard and F. Iida (2002) Iterative Product Engineering: Evolutionary Robot Design, in Bidaud, P. and F. B. Amar (eds.), Proceedings of the Fifth International Conference on Climbing and Walking Robots, Professional Engineering Publishing, pp. 619-629.
 
-1. [[PDF](https://meclab.w3.uvm.edu/papers/2002_SAB_XXX.pdf)] Bongard, J. C. and R. Pfeifer (2002) A Method for Isolating Morphological Effects on Evolved Behaviour, in Hallam, B., Floreano, D. et al (eds.), Proceedings of the Seventh International Conference on the Simulation of Adaptive Behaviour (SAB2002), MIT Press, pp. 305-311.
+1. [[PDF](https://meclab.w3.uvm.edu/papers/2002_SAB_Bongard.pdf)] Bongard, J. C. and R. Pfeifer (2002) A Method for Isolating Morphological Effects on Evolved Behaviour, in Hallam, B., Floreano, D. et al (eds.), Proceedings of the Seventh International Conference on the Simulation of Adaptive Behaviour (SAB2002), MIT Press, pp. 305-311.
 
 1. Bongard, J. C. and R. Pfeifer (2002) Relating Neural Network Performance to Morphological Differences in Embodied Agents, inProceedings of the Sixth International Conference on Cognitive and Neural Systems, Boston, USA.
 
-1. [[PDF](https://meclab.w3.uvm.edu/papers/2002_CEC_XXX.pdf)] Bongard, J. C. (2002) Evolving Modular Genetic Regulatory Networks, in Proceedings of the IEEE 2002 Congress on Evolutionary Computation (CEC2002), IEEE Press, pp. 1872-1877.
+1. [[PDF](https://meclab.w3.uvm.edu/papers/2002_CEC_Bongard.pdf)] Bongard, J. C. (2002) Evolving Modular Genetic Regulatory Networks, in Proceedings of the IEEE 2002 Congress on Evolutionary Computation (CEC2002), IEEE Press, pp. 1872-1877.
 
-1. [[PDF](https://meclab.w3.uvm.edu/papers/2001_IROS_XXX.pdf)] Paul, C. and J. C. Bongard (2001) The Road Less Travelled: Morphology in the Optimization of Biped Robot Locomotion, in Proceedings of The IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS2001), Hawaii, USA.
+1. [[PDF](https://meclab.w3.uvm.edu/papers/2001_IROS_Paul.pdf)] Paul, C. and J. C. Bongard (2001) The Road Less Travelled: Morphology in the Optimization of Biped Robot Locomotion, in Proceedings of The IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS2001), Hawaii, USA.
 
 1. Bongard, J. C. and C. Paul (2001) Making Evolution an Offer It Can't Refuse: Morphology and the Extradimensional Bypass, in J. Keleman and P. Sosik (eds.), Proceedings of the Sixth European Conference on Artificial Life, Prague, CZ, pp. 401-412.
 
-1. [[PDF](https://meclab.w3.uvm.edu/papers/2001_GECCO_XXX.pdf)] Bongard, J. C. and R. Pfeifer (2001) Repeated Structure and Dissociation of Genotypic and Phenotypic Complexity in Artificial Ontogeny, in Spector, L. et al (eds.), Proceedings of The Genetic and Evolutionary Computation Conference, GECCO-2001. San Francisco, CA: Morgan Kaufmann publishers, pp. 829-836.
+1. [[PDF](https://meclab.w3.uvm.edu/papers/2001_GECCO_Bongard.pdf)] Bongard, J. C. and R. Pfeifer (2001) Repeated Structure and Dissociation of Genotypic and Phenotypic Complexity in Artificial Ontogeny, in Spector, L. et al (eds.), Proceedings of The Genetic and Evolutionary Computation Conference, GECCO-2001. San Francisco, CA: Morgan Kaufmann publishers, pp. 829-836.
 
 1. Bongard, J. C. and C. Paul (2000) Investigating Morphological Symmetry and Locomotive Efficiency using Virtual Embodied Evolution, in J.-A. Meyer et al (eds.), From Animals to Animats: The Sixth International Conference on the Simulation of Adaptive Behaviour, pp. 420-429 
 
-1. [[PDF](https://meclab.w3.uvm.edu/papers/2000_ALife_XXX.pdf)] Bongard, J. C. (2000) Reducing Collective Behavioural Complexity through Heterogeneity, in M. Bedau et al (eds.), Artificial Life VII:Proceedings of the Seventh International Conference, (MIT Press) , pp. 327-336.
+1. [[PDF](https://meclab.w3.uvm.edu/papers/2000_ALife_Bongard.pdf)] Bongard, J. C. (2000) Reducing Collective Behavioural Complexity through Heterogeneity, in M. Bedau et al (eds.), Artificial Life VII:Proceedings of the Seventh International Conference, (MIT Press) , pp. 327-336.
 
-1. [[PDF](https://meclab.w3.uvm.edu/papers/2000_EuroGP_XXX.pdf)] Bongard, J. C. (2000) The Legion System: A Novel Approach to Evolving Heterogeneity for Collective Problem Solving, in R. Poli, W. Banzhaf et al (eds.), Genetic Programming: Third European Conference, pp. 25-37. (Springer-Verlag) [Presentation available in PDF]
+1. [[PDF](https://meclab.w3.uvm.edu/papers/2000_EuroGP_Bongard.pdf)] Bongard, J. C. (2000) The Legion System: A Novel Approach to Evolving Heterogeneity for Collective Problem Solving, in R. Poli, W. Banzhaf et al (eds.), Genetic Programming: Third European Conference, pp. 25-37. (Springer-Verlag) [Presentation available in PDF]
 
 1. Bongard, J. C. (1999) Coevolutionary Dynamics of a Multi-Population Genetic Programming System, in Floreano, D., J.-D. Nicoud and F. Mondada (eds.), Proceedings of the Fifth European Conference on Artificial Life, pp. 316-321. (Springer-Verlag)
 
