@@ -90,67 +90,67 @@
 
 # Conference Publications
 
-1. [[PDF](https://meclab.w3.uvm.edu/papers/2021_RSS_XXX.pdf)] S Kriegman, AM Nasab, D Blackiston, H Steele, M Levin, R Kramer-Bottiglio, J Bongard (2021). Scale invariant robot behavior with fractals. *Proceedings of the Robotics: Science and Systems Conference*.
+1. [[PDF](https://meclab.w3.uvm.edu/papers/2021_RSS_Kriegman.pdf)] S Kriegman, AM Nasab, D Blackiston, H Steele, M Levin, R Kramer-Bottiglio, J Bongard (2021). Scale invariant robot behavior with fractals. *Proceedings of the Robotics: Science and Systems Conference*.
 
-1. [[PDF](https://meclab.w3.uvm.edu/papers/2021_Arxiv_XXX.pdf)] J Powers, R Grindle, L Frati, J Bongard (2021). A good body is all you need: avoiding catastrophic interference via agent architecture search. arXiv preprint arXiv:2108.08398
+1. [[PDF](https://meclab.w3.uvm.edu/papers/2021_Arxiv_Powers.pdf)] J Powers, R Grindle, L Frati, J Bongard (2021). A good body is all you need: avoiding catastrophic interference via agent architecture search. arXiv preprint arXiv:2108.08398
 
-1. [[PDF](https://meclab.w3.uvm.edu/papers/2021_RoboSoft_XXX.pdf)] B Yang, J Powers, A Parsa, J Bongard, R Kramer-Bottiglio (2021). Shape Matching: Evolving Fiber Constraints on a Pneumatic Bilayer. 2021 IEEE 4th International Conference on Soft Robotics (RoboSoft), 630-635.
+1. [[PDF](https://meclab.w3.uvm.edu/papers/2021_RoboSoft_Yang.pdf)] B Yang, J Powers, A Parsa, J Bongard, R Kramer-Bottiglio (2021). Shape Matching: Evolving Fiber Constraints on a Pneumatic Bilayer. 2021 IEEE 4th International Conference on Soft Robotics (RoboSoft), 630-635.
 
-3. [[PDF](https://meclab.w3.uvm.edu/papers/2020_ALife_XXX.pdf)] D Matthews, J Bongard (2020). Crowd grounding: finding semantic and behavioral alignment through human robot interaction. Proceedings of the Artificial Life Conference (ALife). 
+3. [[PDF](https://meclab.w3.uvm.edu/papers/2020_ALife_Matthews.pdf)] D Matthews, J Bongard (2020). Crowd grounding: finding semantic and behavioral alignment through human robot interaction. Proceedings of the Artificial Life Conference (ALife). 
 
-1. [[PDF](https://meclab.w3.uvm.edu/papers/2020_ALife_XXX.pdf)] J Powers, S Pell, J Bongard (2020). A framework for search and application agnostic interactive optimization. Proceedings of the Artificial Life Conference (ALife).
+1. [[PDF](https://meclab.w3.uvm.edu/papers/2020_ALife_Powers.pdf)] J Powers, S Pell, J Bongard (2020). A framework for search and application agnostic interactive optimization. Proceedings of the Artificial Life Conference (ALife).
 
-1. [[PDF](https://meclab.w3.uvm.edu/papers/2020_ALife_XXX.pdf)] J Powers, R Grindle, S Kriegman, L Frati, N Cheney, J Bongard (2020). Morphology dictates learnability in neural controllers. Proceedings of the Artificial Life Conference (ALife).
+1. [[PDF](https://meclab.w3.uvm.edu/papers/2020_ALife_Powers.pdf)] J Powers, R Grindle, S Kriegman, L Frati, N Cheney, J Bongard (2020). Morphology dictates learnability in neural controllers. Proceedings of the Artificial Life Conference (ALife).
 
-1. [[PDF](https://meclab.w3.uvm.edu/papers/2020_ICRA_XXX.pdf)] K Rosser, J Kok, J Chahl, J Bongard (2020). Sim2real gap is non-monotonic with robot complexity for morphology-in-the-loop flapping wing design. Proceedings of the IEEE International Conference on Robotics and Automation (ICRA).
+1. [[PDF](https://meclab.w3.uvm.edu/papers/2020_ICRA_Rosser.pdf)] K Rosser, J Kok, J Chahl, J Bongard (2020). Sim2real gap is non-monotonic with robot complexity for morphology-in-the-loop flapping wing design. Proceedings of the IEEE International Conference on Robotics and Automation (ICRA).
 
-1. [[PDF](https://meclab.w3.uvm.edu/papers/2020_RoboSoft_XXX.pdf)] S Kriegman, A-M Nasab, D Shah, H Steele, G Branin, M Levin, J Bongard, R Kramer-Bottiglio (2020). Scalable sim-to-real transfer of soft robot designs. Proceedings of the IEEE International Conference on Soft Robotics (RoboSoft).
+1. [[PDF](https://meclab.w3.uvm.edu/papers/2020_RoboSoft_Kriegman.pdf)] S Kriegman, A-M Nasab, D Shah, H Steele, G Branin, M Levin, J Bongard, R Kramer-Bottiglio (2020). Scalable sim-to-real transfer of soft robot designs. Proceedings of the IEEE International Conference on Soft Robotics (RoboSoft).
 
-1. [[PDF](https://meclab.w3.uvm.edu/papers/2019_RSS_XXX.pdf)] S Kriegman, S Walker, D Shah, M Levin, R Kramer-Bottiglio, J Bongard (2019). Automated shapeshifting for function recovery in damaged robots. RSS Conference Proceedings.
+1. [[PDF](https://meclab.w3.uvm.edu/papers/2019_RSS_Kriegman.pdf)] S Kriegman, S Walker, D Shah, M Levin, R Kramer-Bottiglio, J Bongard (2019). Automated shapeshifting for function recovery in damaged robots. RSS Conference Proceedings.
 
-1. [[PDF](https://meclab.w3.uvm.edu/papers/2018_PPSN_XXX.pdf)] A Kodali, M Szubert, K Das, S Ganguly, J Bongard (2018). Understanding climate-vegetation interactions in global rainforests through a GP-tree analysis. PPSN Conference Proceedings, pp. 525–536
+1. [[PDF](https://meclab.w3.uvm.edu/papers/2018_PPSN_Kodali.pdf)] A Kodali, M Szubert, K Das, S Ganguly, J Bongard (2018). Understanding climate-vegetation interactions in global rainforests through a GP-tree analysis. PPSN Conference Proceedings, pp. 525–536
 
-1. [[PDF](https://meclab.w3.uvm.edu/papers/2018_GECCO_XXX.pdf)] S Beaulieu, S Kriegman, JC Bongard (2018). Combating catastrophic forgetting with developmental compression. GECCO Conference Proceedings, pp. 386–393
+1. [[PDF](https://meclab.w3.uvm.edu/papers/2018_GECCO_Beaulieu.pdf)] S Beaulieu, S Kriegman, JC Bongard (2018). Combating catastrophic forgetting with developmental compression. GECCO Conference Proceedings, pp. 386–393
 
-1. [[PDF](https://meclab.w3.uvm.edu/papers/2018_GECCO_XXX.pdf)] S Kriegman, N Cheney, F Corucci, JC Bongard (2018). Interoceptive robustness through environment-mediated morphological development. GECCO Conference Proceedings, pp. 109–116.
+1. [[PDF](https://meclab.w3.uvm.edu/papers/2018_GECCO_Kriegman.pdf)] S Kriegman, N Cheney, F Corucci, JC Bongard (2018). Interoceptive robustness through environment-mediated morphological development. GECCO Conference Proceedings, pp. 109–116.
 
-1. [[PDF](https://meclab.w3.uvm.edu/papers/2018_ALife_XXX.pdf)] F Veenstra, PG de Prado Salas, J Bongard, K Stoy, S Risi (2018). Intrinsic Mortality Governs Evolvability. Artificial Life Conference Proceedings, pp. 242-249.
+1. [[PDF](https://meclab.w3.uvm.edu/papers/2018_ALife_Veenstra.pdf)] F Veenstra, PG de Prado Salas, J Bongard, K Stoy, S Risi (2018). Intrinsic Mortality Governs Evolvability. Artificial Life Conference Proceedings, pp. 242-249.
 
-1. [[PDF](https://meclab.w3.uvm.edu/papers/2018_ALife_XXX.pdf)] C Cappelle, J Bongard (2018). Embodied Embeddings for Hyperneat. Artificial Life Conference Proceedings, pp. 461-468
+1. [[PDF](https://meclab.w3.uvm.edu/papers/2018_ALife_Cappelle.pdf)] C Cappelle, J Bongard (2018). Embodied Embeddings for Hyperneat. Artificial Life Conference Proceedings, pp. 461-468
 
-1. [[PDF](https://meclab.w3.uvm.edu/papers/2018_ALife_XXX.pdf)] J Powers, S Kriegman, J Bongard (2018). The effects of morphology and fitness on catastrophic interference. Artificial Life Conference Proceedings, pp. 606-613
+1. [[PDF](https://meclab.w3.uvm.edu/papers/2018_ALife_Powers.pdf)] J Powers, S Kriegman, J Bongard (2018). The effects of morphology and fitness on catastrophic interference. Artificial Life Conference Proceedings, pp. 606-613
 
-1.  [[PDF](https://meclab.w3.uvm.edu/papers/2017_ECAL_XXX.pdf)] A Bernatskiy & J Bongard (2017). Choice of robot morphology can prohibit modular control and disrupt evolution. Proceedings of the European Conference on Artificial Life.
+1.  [[PDF](https://meclab.w3.uvm.edu/papers/2017_ECAL_Bernatskiy.pdf)] A Bernatskiy & J Bongard (2017). Choice of robot morphology can prohibit modular control and disrupt evolution. Proceedings of the European Conference on Artificial Life.
 
-1. [[PDF](https://meclab.w3.uvm.edu/papers/2017_GECCO_XXX.pdf)] S Kriegman, N Cheney, F Corucci, JC Bongard (2017). A minimal developmental model can increase evolvability in soft robots. Proceedings of the Genetic and Evolutionary Computation Conference, pp 131-138.
+1. [[PDF](https://meclab.w3.uvm.edu/papers/2017_GECCO_Kriegman.pdf)] S Kriegman, N Cheney, F Corucci, JC Bongard (2017). A minimal developmental model can increase evolvability in soft robots. Proceedings of the Genetic and Evolutionary Computation Conference, pp 131-138.
 
-1. [[PDF](https://meclab.w3.uvm.edu/papers/2017_LivingMachines_XXX.pdf)] C Cappelle, A Bernatskiy, J Bongard (2017). Reducing Training Environments in Evolutionary Robotics Through Ecological Modularity. Proceedings of the Conference on Biomimetic and Biohybrid Systems, pp 95-106
+1. [[PDF](https://meclab.w3.uvm.edu/papers/2017_LivingMachines_Cappelle.pdf)] C Cappelle, A Bernatskiy, J Bongard (2017). Reducing Training Environments in Evolutionary Robotics Through Ecological Modularity. Proceedings of the Conference on Biomimetic and Biohybrid Systems, pp 95-106
 
-1. [[PDF](https://meclab.w3.uvm.edu/papers/2016_PPSN_XXX.pdf)] M Szubert, A Kodali, S Ganguly, K Das & JC Bongard  (2016) Semantic forward propagation for symbolic regression. Proceedings of the Parallel Problem Solving from Nature (PPSN) Conference , Edinburgh, UK.
+1. [[PDF](https://meclab.w3.uvm.edu/papers/2016_PPSN_Szubert.pdf)] M Szubert, A Kodali, S Ganguly, K Das & JC Bongard  (2016) Semantic forward propagation for symbolic regression. Proceedings of the Parallel Problem Solving from Nature (PPSN) Conference , Edinburgh, UK.
 
-1. [[PDF](https://meclab.w3.uvm.edu/papers/2016_PPSN_XXX.pdf)] S Kriegman, M Szubert, JC Bongard & C Skalka  (2016) Evolving spatially aggregated features From satellite imagery for regional modeling. Proceedings of the Parallel Problem Solving from Nature (PPSN) Conference , Edinburgh, UK.
+1. [[PDF](https://meclab.w3.uvm.edu/papers/2016_PPSN_Kriegman.pdf)] S Kriegman, M Szubert, JC Bongard & C Skalka  (2016) Evolving spatially aggregated features From satellite imagery for regional modeling. Proceedings of the Parallel Problem Solving from Nature (PPSN) Conference , Edinburgh, UK.
 
-1. [[PDF](https://meclab.w3.uvm.edu/papers/2016_PPSN_XXX.pdf)] N Powell & JC Bongard (2016) Exploring uncertainty and movement in categorical perception using robots. Proceedings of the Parallel Problem Solving from Nature (PPSN) Conference , Edinburgh, UK.
+1. [[PDF](https://meclab.w3.uvm.edu/papers/2016_PPSN_Powell.pdf)] N Powell & JC Bongard (2016) Exploring uncertainty and movement in categorical perception using robots. Proceedings of the Parallel Problem Solving from Nature (PPSN) Conference , Edinburgh, UK.
 
-1. [[PDF](https://meclab.w3.uvm.edu/papers/2016_GECCO_XXX.pdf)] M Szubert, A Kodali, S Ganguly, K Das & JC Bongard (2016) Reducing antagonism between behavioral diversity and fitness in semantic genetic programming. Proceedings of the Genetic and Evolutionary Computation Conference  (GECCO 2016), Denver, CO.
+1. [[PDF](https://meclab.w3.uvm.edu/papers/2016_GECCO_Szubert.pdf)] M Szubert, A Kodali, S Ganguly, K Das & JC Bongard (2016) Reducing antagonism between behavioral diversity and fitness in semantic genetic programming. Proceedings of the Genetic and Evolutionary Computation Conference  (GECCO 2016), Denver, CO.
 
-1. [[PDF](https://meclab.w3.uvm.edu/papers/2016_ALife_XXX.pdf)] N Cheney, JC Bongard, V SunSpiral & H Lipson (2016) On the difficulty of co-optimizing morphology and control in evolved virtual creatures. The 15th International Conference on the Synthesis and Simulation of Living Systems  (ALife 2016), Cancun, Mexico.
+1. [[PDF](https://meclab.w3.uvm.edu/papers/2016_ALife_Cheney.pdf)] N Cheney, JC Bongard, V SunSpiral & H Lipson (2016) On the difficulty of co-optimizing morphology and control in evolved virtual creatures. The 15th International Conference on the Synthesis and Simulation of Living Systems  (ALife 2016), Cancun, Mexico.
 
-1. [[PDF](https://meclab.w3.uvm.edu/papers/2016_ALife_XXX.pdf)] F Corucci, N Cheney, H Lipson, C Laschi & JC Bongard (2016) Material properties affect evolution’s ability to exploit morphological computation in growing soft-bodied creatures. The 15th International Conference on the Synthesis and Simulation of Living Systems  (ALife 2016), Cancun, Mexico.
+1. [[PDF](https://meclab.w3.uvm.edu/papers/2016_ALife_Corucci.pdf)] F Corucci, N Cheney, H Lipson, C Laschi & JC Bongard (2016) Material properties affect evolution’s ability to exploit morphological computation in growing soft-bodied creatures. The 15th International Conference on the Synthesis and Simulation of Living Systems  (ALife 2016), Cancun, Mexico.
 
-1. [[PDF](https://meclab.w3.uvm.edu/papers/2016_ALife_XXX.pdf)] J Anetsberger & JC Bongard (2016) Robots can ground crowd-proposed symbols by forming theories of group mind. The 15th International Conference on the Synthesis and Simulation of Living Systems  (ALife 2016), Cancun, Mexico.
+1. [[PDF](https://meclab.w3.uvm.edu/papers/2016_ALife_Anetsberger.pdf)] J Anetsberger & JC Bongard (2016) Robots can ground crowd-proposed symbols by forming theories of group mind. The 15th International Conference on the Synthesis and Simulation of Living Systems  (ALife 2016), Cancun, Mexico.
 
-1. [[PDF](https://meclab.w3.uvm.edu/papers/2016_ALife_XXX.pdf)] M Wagy & JC Bongard (2016) Social contribution in the design of adaptive machines on the web. The 15th International Conference on the Synthesis and Simulation of Living Systems  (ALife 2016), Cancun, Mexico.
+1. [[PDF](https://meclab.w3.uvm.edu/papers/2016_ALife_Wagy.pdf)] M Wagy & JC Bongard (2016) Social contribution in the design of adaptive machines on the web. The 15th International Conference on the Synthesis and Simulation of Living Systems  (ALife 2016), Cancun, Mexico.
 
-1. [[PDF](https://meclab.w3.uvm.edu/papers/2015_LivingMachines_XXX.pdf)] M Wagy & JC Bongard (2015) Crowdseeding: a novel approach for designing bioinspired machines. Fourth Intl Conf on Biomimetics and Biohybrid Systems (Living Machines 2015), Barcelona, Spain.
+1. [[PDF](https://meclab.w3.uvm.edu/papers/2015_LivingMachines_Wagy.pdf)] M Wagy & JC Bongard (2015) Crowdseeding: a novel approach for designing bioinspired machines. Fourth Intl Conf on Biomimetics and Biohybrid Systems (Living Machines 2015), Barcelona, Spain.
 
-1. [[PDF](https://meclab.w3.uvm.edu/papers/2015_GECCO_XXX.pdf)] K Zieba & JC Bongard (2015) An embodied approach for evolving robust visual classifiers. Genetic and Evolutionary Computation Conference (GECCO 2015), Madrid, Spain.
+1. [[PDF](https://meclab.w3.uvm.edu/papers/2015_GECCO_Zieba.pdf)] K Zieba & JC Bongard (2015) An embodied approach for evolving robust visual classifiers. Genetic and Evolutionary Computation Conference (GECCO 2015), Madrid, Spain.
 
-1. [[PDF](https://meclab.w3.uvm.edu/papers/2015_GECCO_XXX.pdf)] A Yousefi, JC Bongard & C Skalka (2015) A Genetic Programming approach to cost-sensitive control in resource constrained sensor systems. Genetic and Evolutionary Computation Conference (GECCO 2015), Madrid, Spain.
+1. [[PDF](https://meclab.w3.uvm.edu/papers/2015_GECCO_Yousefi.pdf)] A Yousefi, JC Bongard & C Skalka (2015) A Genetic Programming approach to cost-sensitive control in resource constrained sensor systems. Genetic and Evolutionary Computation Conference (GECCO 2015), Madrid, Spain.
 
-1. [[PDF](https://meclab.w3.uvm.edu/papers/2015_GECCO_XXX.pdf)] N Cheney, JC Bongard & H Lipson (2015) Evolving soft robots in tight spaces. Genetic and Evolutionary Computation Conference (GECCO 2015), Madrid, Spain.
+1. [[PDF](https://meclab.w3.uvm.edu/papers/2015_GECCO_Cheney.pdf)] N Cheney, JC Bongard & H Lipson (2015) Evolving soft robots in tight spaces. Genetic and Evolutionary Computation Conference (GECCO 2015), Madrid, Spain.
 
-1. [[PDF](https://meclab.w3.uvm.edu/papers/2015_GECCO_XXX.pdf)] JC Bongard, A Bernatskiy, K Livingston, N Livingston, J Long & M Smith (2015) Evolving robot morphology facilitates the evolution of neural modularity and evolvability. Genetic and Evolutionary Computation Conference (GECCO 2015), Madrid, Spain.
+1. [[PDF](https://meclab.w3.uvm.edu/papers/2015_GECCO_Bongard.pdf)] JC Bongard, A Bernatskiy, K Livingston, N Livingston, J Long & M Smith (2015) Evolving robot morphology facilitates the evolution of neural modularity and evolvability. Genetic and Evolutionary Computation Conference (GECCO 2015), Madrid, Spain.
 
 1. [[PDF](https://meclab.w3.uvm.edu/papers/2014_ALife_XXX.pdf)] Wagy, M., Bongard, J. C. (2014) Collective Design of Robot Locomotion. ALIFE 14: Proceedings of the Fourteenth International Conference on the Synthesis and Simulation of Living Systems DOI: http://dx.doi.org/10.7551/987-0-262-32621-6-ch023.
 
