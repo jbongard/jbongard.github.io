@@ -236,7 +236,7 @@
 
 1. [[PDF](https://meclab.w3.uvm.edu/papers/2002_SAB_Bongard.pdf)] Bongard, J. C. and R. Pfeifer (2002) A Method for Isolating Morphological Effects on Evolved Behaviour, in Hallam, B., Floreano, D. et al (eds.), Proceedings of the Seventh International Conference on the Simulation of Adaptive Behaviour (SAB2002), MIT Press, pp. 305-311.
 
-1. Bongard, J. C. and R. Pfeifer (2002) Relating Neural Network Performance to Morphological Differences in Embodied Agents, inProceedings of the Sixth International Conference on Cognitive and Neural Systems, Boston, USA.
+1. [[PDF](https://meclab.w3.uvm.edu/papers/2002_ICCNS_Bongard.pdf)] Bongard, J. C. and R. Pfeifer (2002) Relating Neural Network Performance to Morphological Differences in Embodied Agents, in *Proceedings of the Sixth International Conference on Cognitive and Neural Systems*, Boston, USA.
 
 1. [[PDF](https://meclab.w3.uvm.edu/papers/2002_CEC_Bongard.pdf)] Bongard, J. C. (2002) Evolving Modular Genetic Regulatory Networks, in Proceedings of the IEEE 2002 Congress on Evolutionary Computation (CEC2002), IEEE Press, pp. 1872-1877.
 
