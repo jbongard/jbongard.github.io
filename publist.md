@@ -12,7 +12,7 @@
 
 1. [[HTML](https://www.frontiersin.org/articles/10.3389/fevo.2021.650726/full)] JC Bongard & M Levin (2021). Living things are not (20th century) machines. *Frontiers in Ecology and Evolution*.
 
-1. [[PDF](https://meclab.w3.uvm.edu/papers/2021_AdvMat_Shah.pdf)] D Shah, B Yang, S Kriegman, M Levin, J Bongard, R Kramer-Bottiglio (2021). Shape changing robots: bioinspiration, simulation, and physical realization. *Advanced Materials*. e202002882.
+1. [[PDF](https://meclab.w3.uvm.edu/papers/2020_AdvMat_Shah.pdf)] D Shah, B Yang, S Kriegman, M Levin, J Bongard, R Kramer-Bottiglio (2020). Shape changing robots: bioinspiration, simulation, and physical realization. *Advanced Materials*. e202002882.
 
 1. [[HTML](https://www.nature.com/articles/s42256-020-00263-1)] DS Shah, JP Powers, LG Tilton, S Kriegman, J Bongard & R Kramer-Bottiglio (2020). A soft robot that adapts to environments through shape change. *Nature Machine Intelligence*, https://doi.org/10.1038/s42256-020-00263-1.
 
