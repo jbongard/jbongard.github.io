@@ -21,7 +21,7 @@
     <td><a href="https://jbongard.github.io/img/2010_PECASE_HiRes.png">Obama</a></td>
   </tr>
   <tr>
-    <td align="right"><a href="https://cdorgs.github.io/">Xenobots</a></td>
+    <td align="right"><a href="https://xenobots.github.io/">Xenobots</a></td>
     <td><a href="https://www.uvm.edu/cems/cs/profiles/josh_bongard">Contact</a></td>
   </tr>
 </table>
