@@ -8,6 +8,9 @@
 
 # Journal articles
 
+[[HTML](https://www.pnas.org/content/118/49/e2112672118)]1. Kriegman, S.*, Blackiston, D.*, Levin, M., Bongard, J. (2021) Kinematic self-replication in reconfigurable organisms,
+*Proceedings of the National Academy of Sciences (PNAS)*, vol. 118, no. 49, e2112672118.
+
 1. [[HTML](https://www.science.org/doi/10.1126/scirobotics.abf1571)] D Blackiston, E Lederer, S Kriegman, S Garnier, J Bongard, M Levin (2021). A cellular platform for the development of synthetic living machines, *Science Robotics*, vol. 6 no. 52, pp. eabf1571.
 
 1. [[HTML](https://www.frontiersin.org/articles/10.3389/fevo.2021.650726/full)] JC Bongard & M Levin (2021). Living things are not (20th century) machines. *Frontiers in Ecology and Evolution*.
