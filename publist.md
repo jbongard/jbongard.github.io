@@ -8,6 +8,17 @@
 
 # Journal articles
 
+1. [[HTML](https://go.nature.com/3ujsrNH)] D Kudithipudi, M Aguilar-Simon, J Babb, M Bazhenov, D Blackiston, J Bongard, AP Brna,
+S Chakravarthi Raja, N Cheney, J Clune, A Daram, S Fusi, P Helfer, L Kay, N Ketz, Z Kira,
+S Kolouri, JL Krichmar, S Kriegman, M Levin, S Madireddy, S Manicka, A Marjaninnejad,
+B McNaughton, R Miikulainen, Z Navratilova, T Pandit, A Parker, PK Pilly, S Risi, TJ Sejnowski,
+A Soltoggio, N Soures, AS Tolias, D Urbina-Melendez, FJ Valero-Cuevas, GM van de Ven,
+JT Vogelstein, F Wang, R Weiss, A Yanguas-Gil, X Zou, H Siegelmann (2022)
+Biological underpinnings for lifelong learning machines.
+Nature Machine Intelligence 4: 1967-210.
+
+1. [[HTML](https://scholar.harvard.edu/files/lewisgroup/files/towards_enduring_autonomous_robots_via_embodied_energy.pdf)] CA Aubin, B Gorissen, E Milana, PR Buskohl, N Lazarus, GA Slipher, C Keplinger, J Bongard, F Iida, JA Lewis, RF Shepherd (2022) Towards enduring autonomous robots via embodied energy. Nature 602(7897): 393-402.
+
 1. [[HTML](https://www.pnas.org/content/118/49/e2112672118)] Kriegman, S.*, Blackiston, D.*, Levin, M., Bongard, J. (2021) Kinematic self-replication in reconfigurable organisms, *Proceedings of the National Academy of Sciences (PNAS)*, vol. 118, no. 49, e2112672118.
 
 1. [[HTML](https://www.science.org/doi/10.1126/scirobotics.abf1571)] D Blackiston, E Lederer, S Kriegman, S Garnier, J Bongard, M Levin (2021). A cellular platform for the development of synthetic living machines, *Science Robotics*, vol. 6 no. 52, pp. eabf1571.
