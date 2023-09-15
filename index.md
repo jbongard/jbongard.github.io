@@ -14,7 +14,7 @@
   </tr>
   <tr>
     <td align="right"><a href="https://twitter.com/DoctorJosh">Tweets</a></td>
-    <td><a href="https://docs.google.com/document/d/1MCrJ-niQH1Ug3FY5NTPooetIwNgw5qCHiS36X6UPlkI/edit?usp=sharing">Schedule</a> (office hours)</td>
+    <td><a href="https://docs.google.com/document/d/1V-eaYOg6LhIivKAooDLJIToHOoQpoHpUFMeit-03RYM/edit">Schedule</a> (office hours)</td>
   </tr>
   <tr>
     <td align="right"><a href="https://www.amazon.com/o/ASIN/0262162393/ref=s9_asin_title/103-1396384-1927027">Book</a></td>
